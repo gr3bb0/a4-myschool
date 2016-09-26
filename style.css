@@ -1,0 +1,57 @@
+body {
+    background: linear-gradient(to right, #ccffff , #ffffff);
+}
+h1 {
+    color: white;
+    font-family: Arial;
+    font-size: 3em;
+    text-shadow: 0px 0px 10px #aaccff, 0px 0px 10px #aaccff, 0px 0px 20px #aaccff;
+}
+h2 {
+    color: white;
+    font-family: Arial;
+    font-size: 2em;
+    text-shadow: 0px 0px 10px #aaccff, 0px 0px 10px #aaccff, 0px 0px 20px #aaccff;
+}
+h3 {
+    color: white;
+    font-family: Arial;
+    font-size: .75em;
+    text-shadow: 0px 0px 10px #aaccff, 0px 0px 10px #aaccff, 0px 0px 20px #aaccff;	
+}
+p {
+    color: white;
+    font-family: Arial;
+    font-size: 2em;
+    text-shadow: 0px 0px 10px #aaccff, 0px 0px 10px #aaccff, 0px 0px 20px #aaccff;
+}
+#bannerpic {
+	float: right;
+	margin: 15px;
+	border-style: ridge;
+	border-width: 10px;
+	border-color: #ccffff;
+	padding: 1px;
+	box-shadow: 0px 0px 10px #aaccff, 0px 0px 10px #aaccff, 0px 0px 20px #aaccff;
+}
+.floatclear {
+	clear: both;
+}
+#banner {
+	margin-left: 25px;
+	margin-right: 25px;
+}
+#aboutme {
+	background-color: #fff;
+	color: #aaccff;
+	font-size: 1.25em;
+	border: none;
+	transition-duration: 0.4s;
+} 
+#aboutme:hover {
+	box-shadow: 0px 0px 10px #aaccff, 0px 0px 10px #aaccff, 0px 0px 20px #aaccff;
+	cursor: pointer;
+}
+#myinfo {
+	font-size: 1em;
+}
