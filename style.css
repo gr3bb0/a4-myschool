@@ -51,7 +51,11 @@ p {
 #aboutme:hover {
 	box-shadow: 0px 0px 10px #aaccff, 0px 0px 10px #aaccff, 0px 0px 20px #aaccff;
 	cursor: pointer;
+	color: #00f;
 }
 #myinfo {
 	font-size: 1em;
+}
+#slideshow {
+	box-shadow: 0px 0px 10px #aaccff, 0px 0px 10px #aaccff, 0px 0px 20px #aaccff;
 }
